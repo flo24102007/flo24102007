@@ -1,4 +1,4 @@
-![Banner](flop.png)
+![Banner](flope.png)
 # Hi there, I'm Florentin ARATIME 👋
 
 I am a Computer Science student specializing in system administration, networking, and cybersecurity. My ultimate career goal is to become a **Security Engineer**, with a strong focus on infrastructure hardening, network monitoring, and Blue Team operations.
